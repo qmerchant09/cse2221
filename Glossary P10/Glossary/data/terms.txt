@@ -1,0 +1,41 @@
+meaning
+something that one wishes to convey, especially by language
+
+term
+a word whose definition is in a glossary
+
+word
+a string of characters in a language, which has at least one character
+
+definition
+a sequence of words that gives meaning to a term
+
+glossary
+a list of difficult or specialized terms, with their definitions,
+usually near the end of a book
+
+language
+a set of strings of characters, each of which has meaning
+
+book
+a printed or written literary work
+
+quidnunc
+a person who is eager to know the latest news and gossip; 
+a gossip or busybody
+
+daffadowndilly
+Chiefly British Dialect
+a daffodil
+
+cosset
+to treat as a pet; pamper; coddle.
+
+coddle
+to treat tenderly; nurse or tend indulgently; pamper word
+
+water
+a transparent, odorless, tasteless liquid, a compound of hydrogen and oxygen, 
+H2O, freezing at 32°F or 0°C and boiling at 212°F or 100°C, that in a more or 
+less impure state constitutes rain, oceans, lakes, rivers, etc.: 
+it contains 11.188 percent hydrogen and 88.812 percent oxygen, by weight.
